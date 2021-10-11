@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @vijaymocherla
 - 👀 I’m interested in developing Numerical methods and Algorithms to solve problems in 
-  Condensed matter theory,
-  Open quantum systems,
-  Quantum Optics and Quantum information
-- 🌱 I’m currently learning Monte Carlo and Tensor Network Methods. 
+    - Quantum Chemistry and Chemical Physics
+    - Condensed matter amd Ultracold Physics (many-body physics)
+    - Open quantum systems, Quantum Optics and Quantum-information thermodynamics
+- 🌱 I’m currently learning about Configuration Interaction(CI) and coupled electron-nuclear dynamics. 
 - 💞️ I’m looking to collaborate on open-source libraries for Scientific Computing and Machine Learning.
 - 📫 How to reach me vijaysai(dot)mocherla(at)gmail.com
 
