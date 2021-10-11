@@ -4,7 +4,7 @@
     - Condensed matter amd Ultracold Physics (many-body physics)
     - Open quantum systems, Quantum Optics and Quantum-information thermodynamics
 - 🌱 I’m currently learning about Configuration Interaction(CI) and 
--   coupled electron-nuclear dynamics. 
+     coupled electron-nuclear dynamics. 
 - 💞️ I’m looking to collaborate on open-source libraries for Scientific Computing and Machine Learning.
 - 📫 How to reach me vijaysai(dot)mocherla(at)gmail.com
 
