@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @vijaymocherla
-- 👀 I’m interested in developing Numerical methods and Algorithms to solve problems in 
-    - Quantum Chemistry and Chemical Physics
-    - Condensed matter amd Ultracold Physics (many-body physics)
-    - Open quantum systems, Quantum Optics and Quantum-information thermodynamics
+- 👀 I’m interested in developing Numerical methods to solve problems in Many-body Physics and Quantum Chemistry. 
 - 🌱 I’m currently learning about Configuration Interaction(CI). 
 - 💞️ I’m looking to collaborate on open-source libraries for Scientific Computing and Machine Learning.
 - 📫 How to reach me vijaysai(dot)mocherla(at)gmail.com
